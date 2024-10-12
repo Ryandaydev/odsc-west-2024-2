@@ -1,3 +1,8 @@
 # How to use APIs in Data Science Without Breaking Anything
-Presentation for Data Science KC October 2024
+## Presentation for Data Science KC October 2024
 
+A few highlights:
+
+* Using APIs in Streamlit with a simple client
+* Using APIs in generative AI with LangChain with a full SDK
+* Using APIs in Jupyter Notebooks with a simple client
