@@ -2,10 +2,10 @@
 
 run the API locally: 
 
-## Install requirements:
+## Install requirements
     pip3 install -r requirements.txt
 
-## Run the streamlit a;;:
+## Run the streamlit
     streamlit run streamlit_football_app.py
 
 
