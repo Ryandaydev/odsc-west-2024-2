@@ -9,7 +9,7 @@ Install the SDK locally from a separate github repo:
 pip3 install swcpy@git+https://github.com/handsonapibook/api-book-part-one#
 subdirectory=chapter7/complete/sdk .
 
-Install the require directes for this project:
+Install the requirements for this project:
 
 pip3 install -r requirements.txt
 
