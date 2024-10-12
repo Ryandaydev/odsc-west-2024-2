@@ -1,8 +1,7 @@
 # Running API locally
 
     pip3 install -r requirements.txt
-
-     fastapi run main.py
+    fastapi run main.py
 
 ## Tests
 
