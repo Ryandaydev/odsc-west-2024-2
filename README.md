@@ -3,6 +3,6 @@
 
 A few highlights:
 
-* Using APIs in Streamlit with a simple client
+* Using APIs in Streamlit with a simple client - [code](/notebooks_with_client)
 * Using APIs in generative AI with LangChain with a full SDK
 * Using APIs in Jupyter Notebooks with a simple client
