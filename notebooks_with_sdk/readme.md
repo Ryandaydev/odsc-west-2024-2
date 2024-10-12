@@ -4,7 +4,7 @@ These examples use LangChain and LangGraph with the API.
 
 ## Some prerequisites
 
-Run the API locally [instructions](dont-break-stuff/blob/main/api/readme.md)
+Run the API locally [instructions](/api/readme.md)
 
 Install the SDK locally from a separate github repo:
 
