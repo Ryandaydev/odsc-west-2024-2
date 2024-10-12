@@ -1,9 +1,11 @@
 # Running these examples
 
-run the API locally 
+run the API locally: 
 
-pip3 install -r requirements.txt
+## Install requirements:
+    pip3 install -r requirements.txt
 
-streamlit run streamlit_football_app.py
+## Run the streamlit a;;:
+    streamlit run streamlit_football_app.py
 
 
