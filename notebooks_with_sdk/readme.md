@@ -4,6 +4,8 @@ These examples use LangChain and LangGraph with the API.
 
 ## Some prerequisites
 
+Run the API locally [instructions](dont-break-stuff/blob/main/api/readme.md)
+
 Install the SDK locally from a separate github repo:
 
     pip3 install swcpy@git+https://github.com/handsonapibook/api-book-part-one#
