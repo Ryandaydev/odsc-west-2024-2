@@ -6,7 +6,9 @@
 ## Tests
 
 Test the crud.py interaction with the database:
+    
     pytest test_cruyd.py 
 
 Test the API code (you don't have to run the API separately, this will run the API during testing):
-    pytest test_main.py - 
+    
+    pytest test_main.py 
