@@ -1,6 +1,6 @@
 # Running these examples
 
-run the API locally: 
+Run the API locally [instructions](dont-break-stuff/blob/main/api/readme.md)
 
 ## Install requirements
     pip3 install -r requirements.txt
