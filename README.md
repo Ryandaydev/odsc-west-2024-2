@@ -5,6 +5,6 @@ For more tips on this topic  [Sign up for my Tip Sheet](https://tips.handsonapib
 
 A few highlights:
 
-* Using APIs in Streamlit with a simple client - [code](/streamlit_with_client)
-* Using APIs in generative AI with LangChain with a full SDK - [code](/notebooks_with_sdk)
-* Using APIs in Jupyter Notebooks with a simple client - [code](/notebooks_with_client)
+* Using APIs in Streamlit with a simple client - [code](/streamlit_with_client/)
+* Using APIs in generative AI with LangChain - [code](/notebooks_with_ai/)
+* Using APIs in Jupyter Notebooks with a simple client - [code](/notebooks_with_client/)
